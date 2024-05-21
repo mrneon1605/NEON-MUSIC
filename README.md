@@ -3,7 +3,7 @@
 🇮🇳 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🇮🇳
 
 <!--
-**THE-SHIV/THE-SHIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**THE-NEON/THE-NEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -24,7 +24,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ccb70957819c2abfa5466.jpg">
+  <img src="https://graph.org/file/b76ab1a36d2fa10a95f0c.jpg">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="https://graph.org/file/b76ab1a36d2fa10a95f0c.jpg">
 </p>
 
 <h3 align="center">
@@ -82,7 +82,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/Dns_Official_Channel"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/THESUKOONLYRIC"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
