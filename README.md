@@ -89,4 +89,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://t.me/THESUKOONLYRIC"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʀᴀᴊᴘᴜᴛ sʜɪᴠ](https://t.me/THESUKOONLYRIC) ғᴏʀ [ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/THESUKOONLYRIC)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝑀𝑅 𝒩𝐸𝒪𝒩](https://t.me/THESUKOONLYRIC) ғᴏʀ [ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/THESUKOONLYRIC)_ </b>
