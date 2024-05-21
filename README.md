@@ -86,7 +86,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 <p align="center">
-<a href="https://t.me/Dns_Official_Channel"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/THESUKOONLYRIC"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʀᴀᴊᴘᴜᴛ sʜɪᴠ](https://t.me/Dns_Official_Channel) ғᴏʀ [ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/Dns_Official_Channel)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʀᴀᴊᴘᴜᴛ sʜɪᴠ](https://t.me/THESUKOONLYRIC) ғᴏʀ [ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/THESUKOONLYRIC)_ </b>
